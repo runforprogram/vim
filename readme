@@ -1,6 +1,6 @@
 nstallation:
 
-    git clone git://github.com/nelstrom/vim.git ~/.vim
+    git clone git://github.com/runforprogram/vim.git ~/.vim
 
 	Create symlinks:
 
